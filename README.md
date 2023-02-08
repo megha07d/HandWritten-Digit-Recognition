@@ -1,6 +1,6 @@
 
 # Handwritten Digit Recognition using Deep Learning
-A deep learning based project to recognize handwritten digits using Convolutional Neural Networks (CNNs).
+A deep learning based project to recognize handwritten digits using Keras Sequential layers architecture.
 
 ## Project Overview
 The goal of this project is to build a model that can accurately identify digits from hand-written images. The model is built using the popular deep learning framework, [Keras](https://keras.io/) and [TensorFlow](https://www.tensorflow.org/) as the backend. The model is trained on the MNIST dataset, which contains 60,000 training images and 10,000 testing images of handwritten digits.
